@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'bwquintapro';
+  src: local("bwquintapro"), url(../fonts/bwquintapro-light.otf); }
+body {
+  @font font: 100% $font-stack;
+  color: #333; }
+
+/*# sourceMappingURL=style_1.css.map */

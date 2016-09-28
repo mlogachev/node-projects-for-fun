@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'bw_quinta_prolight';
+  src: url("../fonts/bwquintapro-light-webfont.eot");
+  src: url("../fonts/bwquintapro-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/bwquintapro-light-webfont.woff2") format("woff2"), url("../fonts/bwquintapro-light-webfont.woff") format("woff"), url("../fonts/bwquintapro-light-webfont.ttf") format("truetype"), url("../fonts/bwquintapro-light-webfont.svg#bw_quinta_prolight") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+body {
+  font-family: bw_quinta_prolight, Helvetica, sans-serif;
+  font: 100%;
+  color: #333; }
+
+/*# sourceMappingURL=style.css.map */
